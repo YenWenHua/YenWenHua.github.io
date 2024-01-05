@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>文字+圖片練習</title>
+</head>
+<body bgcolor="#AD5A5A">
+<hl align = center>文字+圖片練習 學號:90910139 姓名:嚴文華</hl>
+
+<h2>料理陳列展示</h2>
+
+<table border="0px">
+  <tr>
+    <td><img src="001.jpg" width="400" height=300"></td>
+    <td><img src="002.jpg" width="400" height=300"></td>
+    <td><img src="003.jpg" width="400" height=300"></td>
+    <td><img src="004.jpg" width="400" height=300"></td>
+  </tr>
+  <tr>
+    <td align = center> <a href="index 001.html">宮保雞丁和心得</a> </td>
+    <td align = center> <a href="index 002.html">金沙豆腐</a> </td>
+    <td align = center> <a href="index 003.html">鳳梨蝦球</a> </td>
+    <td align = center> <a href="index 004.html">塔香蛤蜊</a> </td>
+  </tr>
+</table>
+
+
+  <h1>鳳梨蝦球食譜</h1>
+  <ul>
+    <li>鳳梨蝦球是一道結合了海鮮和水果的獨特菜品，<ul>
+    <li>通常以蝦球和新鮮鳳梨為主要材料</li>
+    <li>蝦球作為一種海鮮食材，其嫩滑的質地和鮮甜的味道與鳳梨的清新、甜美形成了有趣的對比。</li>
+    <li>以下是一份鳳梨蝦球的基本食材清單，你可以根據個人口味和需求進行調整：</li>
+  </ul>
+
+  <h2>主要食材：</h2>
+  <ul>
+    <li>大蝦：約300克，去殼並去腸泥</li>
+    <li>鳳梨：適量，切成小塊</li>
+    <li>青椒：1個，切成小段</li>
+    <li>洋蔥：1個，切成小塊</li>
+    <li>蒜末：適量</li>
+    <li>生薑：少量，切成薄片</li>
+  </ul>
+
+  <h2>調味料：</h2>
+  <ul>
+    <li>鹽：1/2茶匙</li>
+    <li>糖：1茶匙</li>
+    <li>生抽：2湯匙</li>
+    <li>料酒：1湯匙</li>
+    <li>胡椒粉：1/4茶匙</li>
+    <li>鳳梨汁：1/4杯</li>
+    <li>番茄醬：2湯匙</li>
+    <li>太白粉：適量，用水調成太白粉水</li>
+  </ul>
+
+  <h2>製作步驟：</h2>
+  <ol>
+    <li>將大蝦去殼並去腸泥，用鹽和料酒醃製約15分鐘。</li>
+    <li>熱鍋冷油，將大蝦煎至兩面金黃，盛出備用。</li>
+    <li>燒熱鍋，加入適量食用油，放入蒜末和生薑爆香。</li>
+    <li>加入洋蔥、青椒和鳳梨，炒至蔬菜微軟。</li>
+    <li>將鳳梨汁、生抽、糖、胡椒粉和番茄醬混合成醬汁，倒入鍋中煮沸。</li>
+    <li>在醬汁中加入太白粉水勾芡，使醬汁變得濃稠。</li>
+    <li>最後，將煎好的大蝦放入鍋中，翻炒均勻，確保每隻蝦都沾滿醬汁。</li>
+  </ol>
+
+</body>
+</html>
+
+

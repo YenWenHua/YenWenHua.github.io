@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>文字+圖片練習</title>
+</head>
+<body bgcolor="#AD5A5A">
+<hl align = center>文字+圖片練習 學號:90910139 姓名:嚴文華</hl>
+
+<h2>料理陳列展示</h2>
+
+<table border="0px">
+  <tr>
+    <td><img src="001.jpg" width="400" height=300"></td>
+    <td><img src="002.jpg" width="400" height=300"></td>
+    <td><img src="003.jpg" width="400" height=300"></td>
+    <td><img src="004.jpg" width="400" height=300"></td>
+  </tr>
+  <tr>
+    <td align = center> <a href="index 001.html">宮保雞丁和心得</a> </td>
+    <td align = center> <a href="index 002.html">金沙豆腐</a> </td>
+    <td align = center> <a href="index 003.html">鳳梨蝦球</a> </td>
+    <td align = center> <a href="index 004.html">塔香蛤蜊</a> </td>
+  </tr>
+</table>
+
+
+  <h1>塔香蛤蜊食譜</h1>
+  <ul>
+    <li>「塔香蛤蜊」是一道將蛤蜊與獨特調味料結合的美味海鮮菜品</li>
+    <li>蛤蜊具有鮮美的風味和口感，塔香蛤蜊可能是在這樣的背景下逐漸演變而來的。</li>
+    <li>很多地方的廚師都會嘗試以不同的方式烹調它們。</li>
+    <li>以下是一份塔香蛤蜊的基本食材清單，你可以根據個人口味和需求進行調整：</li>
+  </ul>
+
+  <h2>主要食材：</h2>
+  <ul>
+    <li>新鮮蛤蜊：約500克</li>
+    <li>大蒜：5瓣，切成薄片</li>
+    <li>蔥：2根，切成段</li>
+    <li>生薑：一小塊，切成薄片</li>
+    <li>紅辣椒：1-2條，切成段（可依口味調整辣度）</li>
+    <li>香菜：適量，切碎（用作裝飾）</li>
+  </ul>
+
+  <h2>調味料：</h2>
+  <ul>
+    <li>米酒：2湯匙</li>
+    <li>醬油：1湯匙</li>
+    <li>糖：1茶匙</li>
+    <li>鹽：1/2茶匙</li>
+    <li>雞精：1/2茶匙</li>
+    <li>清雞湯或清水：1杯</li>
+    <li>橄欖油：2湯匙</li>
+  </ul>
+
+  <h2>製作步驟：</h2>
+  <ol>
+    <li>蛤蜊用清水反覆沖洗，去除沙粒和雜質。</li>
+    <li>燒熱鍋，加入橄欖油，爆香薄片的蒜、薄片的薑、蔥段和紅辣椒。</li>
+    <li>加入蛤蜊，迅速翻炒均勻。</li>
+    <li>倒入米酒，煮至米酒香味揮發。</li>
+    <li>加入醬油、糖、鹽、雞精和清雞湯（或清水），蓋上鍋蓋，煮至蛤蜊張開。</li>
+    <li>撒上香菜，翻炒均勻。</li>
+    <li>最後，裝盤，即可享用。</li>
+  </ol>
+
+</body>
+</html>
+
